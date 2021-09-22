@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px 20px 0 20px;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin:0px 10px 0 310px;
+    background-color: #E0D8D6;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+
+}
+
+p{
+   margin-left: 10px;
+   margin-right: 10px;
+}
